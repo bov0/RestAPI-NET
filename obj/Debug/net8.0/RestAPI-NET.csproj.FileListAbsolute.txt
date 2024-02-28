@@ -136,3 +136,4 @@ C:\Users\ibay2\OneDrive\Documentos\DAW2\Desarrollo de aplicaciones en entorno se
 C:\Users\ibay2\OneDrive\Documentos\DAW2\Desarrollo de aplicaciones en entorno servidor\RestAPI-NET\RestAPI-NET\obj\Debug\net8.0\ref\RestAPI-NET.dll
 C:\Users\ibay2\OneDrive\Documentos\DAW2\Desarrollo de aplicaciones en entorno servidor\RestAPI-NET\RestAPI-NET\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\ibay2\OneDrive\Documentos\DAW2\Desarrollo de aplicaciones en entorno servidor\RestAPI-NET\RestAPI-NET\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ibay2\OneDrive\Documentos\DAW2\Desarrollo de aplicaciones en entorno servidor\RestAPI-NET\RestAPI-NET\obj\Debug\net8.0\RestAPI-NET.sourcelink.json

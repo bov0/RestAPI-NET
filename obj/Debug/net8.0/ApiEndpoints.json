@@ -111,7 +111,7 @@
   {
     "ContainingType": "RestAPI_NET.Controllers.RelojController",
     "Method": "Lista",
-    "RelativePath": "api/Reloj/lista",
+    "RelativePath": "api/Reloj/listar",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -138,6 +138,22 @@
     "Parameters": [
       {
         "Name": "idReloj",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestAPI_NET.Controllers.RelojController",
+    "Method": "ObtenerImagen",
+    "RelativePath": "api/Reloj/ObtenerImagen/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
       }

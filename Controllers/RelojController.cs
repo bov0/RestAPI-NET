@@ -25,7 +25,7 @@ namespace RestAPI_NET.Controllers
         }
 
         [HttpGet]
-        [Route("lista")]
+        [Route("listar")]
         public IActionResult Lista()
         {
             try
